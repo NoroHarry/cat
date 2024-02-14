@@ -1,0 +1,59 @@
+{
+	"folders": [
+		{
+			"name": "BAGAGES",
+			"path": "../BAGAGES"
+		},
+		{
+			"name": "MAISON",
+			"path": "../MAISON"
+		},
+		{
+			"name": "etoile-tech",
+			"path": "../etoile-tech"
+		},
+		{
+			"name": "ANIMALERIE",
+			"path": "../ANIMALERIE"
+		},
+		{
+			"name": "BEBE",
+			"path": "../BEBE"
+		},
+		{
+			"name": "ACCESSOIRES",
+			"path": "../ACCESSOIRES"
+		},
+		{
+			"name": "AGRICULTURE",
+			"path": "../AGRICULTURE"
+		},
+		{
+			"path": "../SPORT"
+		},
+		{
+			"path": "../JARDINAGE"
+		},
+		{
+			"path": "../ELECTRICITE"
+		},
+		{
+			"path": "../SECURITE"
+		},
+		{
+			"path": "../BAUTE"
+		},
+		{
+			"path": "../JEUX VIDEO"
+		},
+		{
+			"path": "../OUTIL"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "OUTIL"
+	}
+}
